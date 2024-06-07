@@ -12,3 +12,5 @@ graph TD;
 
 [[README]]
 
+[article](article.md)
+
